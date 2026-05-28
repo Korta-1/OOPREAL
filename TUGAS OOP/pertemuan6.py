@@ -22,3 +22,6 @@ mobil1.hazard_lamp()
 motor1 = motor("Honda", "Merah")
 motor1.info()
 motor1.hazard_lamp()
+
+
+#ada aja deh
